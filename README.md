@@ -18,6 +18,7 @@ Y el inventario como un array de estos objetos. Las funciones implementadas son:
 **calcularValorTotal()**: devuelve el valor de venta total del inventario.
 
 Para probar el programa, puede acceder al siguiente link:
+https://adrieto.github.io/Gestion-Inventarios/
 
 Una vez ahi, debe presionar F12 (en google chrome) para abrir las herramientas de desarrollador y dirigirse a la pestaña consola, donde se puede invocar a las distintas funciones aquí implementadas.
 
